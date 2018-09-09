@@ -46,4 +46,4 @@ Wait a second; for the fourth second, type
 
 **Reference**
 
-https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#creating-streaming-dataframes-and-streaming-datasets
+Structured Streaming Programming Guide: https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#creating-streaming-dataframes-and-streaming-datasets
