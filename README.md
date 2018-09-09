@@ -29,25 +29,23 @@ _Url:_ [Creating a PySpark project with pytest, pyenv, and egg files](https://me
 
     ./bin/spark-submit wordcount.py localhost 9999
 
-**In terms of how you time this, you should:**
+**In terms of how you time this, one the command line, start with:**
 
-    First start with nc -lk 9999.
-  
- 
+    nc -lk 9999
 
 **Then, start typing your events, for example:**
 
 For the first second, type
 
-        blue blue blue blue blue green green green
+        apple apple apple
 
 For the second second, type
     
-        gohawks
+        orange orange apple
 
 Wait a second; for the fourth second, type
     
-         green green
+        mango mango mang
 
 
 **Reference**
