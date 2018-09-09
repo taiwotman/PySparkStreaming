@@ -1,6 +1,6 @@
 # Pyspark Streaming
 
-An example PySpark project.
+**An example PySpark project.**
 
 The project uses pyenv and pytest.  It also demonstrates how to generate egg files.
 
@@ -20,10 +20,6 @@ _Url:_ [Creating a PySpark project with pytest, pyenv, and egg files](https://me
     cd ./src && zip -x main.py -r ../dist/wordcount .
 
     source venv/bin/activate
-
-
-
-
 
 **To run this PySpark Streaming application, execute the following command from your $SPARK_HOME folder:**
 
