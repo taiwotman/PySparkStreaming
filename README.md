@@ -2,11 +2,7 @@
 
 **An example PySpark project.**
 
-The project uses pyenv and pytest.  It also demonstrates how to generate egg files.
-
-Here is a link to a blog post that explains how this application was built.
-
-_Url:_ [Creating a PySpark project with pytest, pyenv, and egg files](https://medium.com/@mrpowers/creating-a-pyspark-project-with-pytest-pyenv-and-egg-files-d2709eb1604c)
+The project demonstrate pyspark structured programming using template design pattern
 
 **Upgrade python**
 
@@ -47,3 +43,5 @@ Wait a second; for the fourth second, type
 **Reference**
 
 Structured Streaming Programming Guide: https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#creating-streaming-dataframes-and-streaming-datasets
+
+Creating a PySpark project with pytest, pyenv, and egg files: https://medium.com/@mrpowers/creating-a-pyspark-project-with-pytest-pyenv-and-egg-files-d2709eb1604c
