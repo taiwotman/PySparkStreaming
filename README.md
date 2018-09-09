@@ -9,7 +9,8 @@ Here is a link to a blog post that explains how this application was built.
 _Url:_ [Creating a PySpark project with pytest, pyenv, and egg files](https://medium.com/@mrpowers/creating-a-pyspark-project-with-pytest-pyenv-and-egg-files-d2709eb1604c)
 
 **Upgrade python**
-curl https://bootstrap.pypa.io/get-pip.py | python
+
+    curl https://bootstrap.pypa.io/get-pip.py | python
 
 
 **Running Spark job with spark-submit on Command line**
