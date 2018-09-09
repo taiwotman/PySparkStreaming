@@ -26,7 +26,7 @@ curl https://bootstrap.pypa.io/get-pip.py | python
 
 **To run this PySpark Streaming application, execute the following command from your $SPARK_HOME folder:**
 
-    ./bin/spark-submit streaming_word_count.py localhost 9999
+    ./bin/spark-submit wordcount.py localhost 9999
 
 **In terms of how you time this, you should:**
 
