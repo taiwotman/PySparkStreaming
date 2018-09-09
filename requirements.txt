@@ -1,0 +1,10 @@
+pandas
+readline
+Numpy
+scikit-learn
+scipy
+jellyfish
+numexpr
+recordlinkage
+pypandoc
+pyspark
