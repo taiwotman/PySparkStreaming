@@ -1,4 +1,4 @@
-# Pyspark Dstream
+# Pyspark Streaming
 
 An example PySpark project.
 
