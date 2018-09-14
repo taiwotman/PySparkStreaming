@@ -21,7 +21,7 @@ The project demonstrate pyspark structured programming using template design pat
 
     ./bin/spark-submit wordcount.py localhost 9999
 
-**In terms of how you time this, one the command line, start with:**
+** To begin the streaming, on the command line, type the netcat commmand**
 
     nc -lk 9999
 
